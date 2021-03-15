@@ -1,0 +1,16 @@
+{
+    "name": "davidspeijer/fileuploader",
+    "type": "library",
+    "authors": [
+        {
+            "name": "David Speijer",
+            "email": "david@davidspeijer.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Innostudio\\FileUploader\\": "src/"
+        }
+    },
+    "require": {}
+}
